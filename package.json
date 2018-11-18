@@ -1,0 +1,28 @@
+{
+  "name": "nwgl-doc",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-jsdoc": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mourtz/nWGL-doc.git"
+  },
+  "keywords": [
+    "WebGL",
+    "GLSL",
+    "Graphics",
+    "Doc"
+  ],
+  "author": "Alex Mourtziapis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mourtz/nWGL-doc/issues"
+  },
+  "homepage": "https://github.com/Mourtz/nWGL-doc#readme"
+}
